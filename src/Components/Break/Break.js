@@ -56,7 +56,8 @@ const Break = ({ cart }) => {
          <h5 className='fow-bold'>Exercise Detail</h5>
        <div className='d-flex align-items-center justify-content-between bg-light mb-3 p-1'>
 
-        {/* <p className='mt-1 fw-bold'>Exercise time :   {time}s</p> */}
+         <p className='mt-1 fw-bold'>Exercise time :   {time}s</p>
+         
 
       </div>
       <div className='d-flex align-items-center justify-content-between bg-light mb-4 p-1'>
