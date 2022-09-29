@@ -16,7 +16,7 @@ const Cart = (props) => {
           <p className="card-text">{description}</p>
           <p>For Age: {age}</p>
           <p><span >Time required : {time}s</span></p>
-          {/* <button onClick={(event) => setTimeForWorkOut(event,props.gym)} className='w-100 bg-warning fw-bold p-2 border-0'>Add to list</button> */}
+          <button onClick={(event) => setTimeForWorkOut(event,props.gym)} className='w-100 bg-warning fw-bold p-2 border-0'>Add to list</button>
         </div>
         
       </div>
