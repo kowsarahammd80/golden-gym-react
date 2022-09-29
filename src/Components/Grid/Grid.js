@@ -54,14 +54,14 @@ const Grid = () => {
         </div>
           
         <div className="col-12 col-sm-4 col-md-3 cal-lg-3 ">
-          {/* <Break cart={cart}></Break> */}
+          <Break cart={cart}></Break>
         </div>
          
 
       </div>
       
       
-      <Question></Question>
+      {/* <Question></Question> */}
       
       
     </div>
