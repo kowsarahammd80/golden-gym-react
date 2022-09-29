@@ -3,7 +3,7 @@ import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const Break = ({ cart }) => {
-  // let [breaktime, setBreakTime] = useState(0);
+  let [breaktime, setBreakTime] = useState(0);
 
   let time = cart.reduce((a, b) => a + b, 0)
   useEffect(() => {
