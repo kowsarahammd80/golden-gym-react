@@ -61,7 +61,7 @@ const Grid = () => {
       </div>
       
       
-      {/* <Question></Question> */}
+      <Question></Question>
       
       
     </div>
