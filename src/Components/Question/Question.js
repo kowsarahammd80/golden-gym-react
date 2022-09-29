@@ -18,7 +18,7 @@ const Question = () => {
       <div class="card">
      
         <div class="card-body">
-        {/* <h5 class="card-title">What are the differences between props and state ?</h5> */}
+        <h5 class="card-title">What are the differences between props and state ?</h5>
         <p class="card-text">Have you ever wondered how can we pass the data between the components in ReactJS? We can pass the data between the components using Props and State. So, let us know how we can pass the data using props and state and understand the difference between the two.Have you ever wondered how can we pass the data between the components</p>
       </div>
       </div>
